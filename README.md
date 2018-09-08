@@ -1,7 +1,7 @@
 # Bayesian Decision Making - Datagiri (Mumbai)
 
-Jupyter notebook accompanying my talk on "Bayesian Decision Making" for DataGiri
-Slides for the talk can be found [here](https://goo.gl/DrRacz)
+Jupyter notebook accompanying my talk on "Bayesian Decision Making" for DataGiri. <br>
+Slides for the talk can be found [here](https://goo.gl/DrRacz).
 
 ## Pre-requisites
 
